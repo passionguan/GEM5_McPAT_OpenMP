@@ -2,6 +2,14 @@ This is the MANUAL for this HUGE project!
 
 1.First, you may need to download the Stable version of gem5 at the website from my github repository
 https://github.com/passionguan/GEM5_McPAT_OpenMP
+For instance, I have just downloaded the stable version gem5 and unzip it into 
+/home/passionguan/Downloads/gem5 
+
+2.Second, you may need to have a good understanding at how to build and run gem5. Please read this:
+http://www.m5sim.org/Build_System
+http://www.m5sim.org/Running_gem5
+
+
 
 
 
