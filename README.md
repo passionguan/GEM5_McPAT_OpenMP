@@ -6,3 +6,9 @@ Instructed by Cris (cristinel.ababei@marquette.edu);
 ---------------------------------------------------------------------------------------
 
 This project uses GEM5 full system sumulator and McPAT power calculator and OpenMP technique for design space exploration of chip multiprocessors (CMPs) on Bus based and Notwork-on-chip (NoC) based communication.
+
+----------------------------------------------------------------------------------------
+This is a HUGE project, I will write a detail UP-TO-DATE manual for step-by-step usage.
+---------------------------------------------------------------------------------------
+
+
